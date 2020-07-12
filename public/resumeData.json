@@ -1,18 +1,18 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "name":"Kevin Seagraves",
+    "description":"I am a product nerd with a passion for Decentralized tech, DeFi, and Fintech. I have launched successful products as both a Full Stack Engineer and a Product Manager.",
+    "image":"Kevin_linkedin.jpeg",
+    "bio":"This is my bio",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "k.s.seagraves@gmail.com",
     "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/captnseagraves?tab=overview&from=2020-07-01&to=2020-07-11",
+    "project":"https://github.com/captnseagraves/kevin-seagraves-resume",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
+      "city":"Hermosa Beach",
+      "state":"CA",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",

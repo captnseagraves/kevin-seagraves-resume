@@ -33,9 +33,13 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   
+
    text-align: center;
    overflow: hidden;
+   background-image: url("../images/mountain_silouhette.jpg");
+   background-color: #808080;
+   background-size: cover;
+   background-repeat: no-repeat;
 }
 
 /* vertically center banner section */
@@ -1011,7 +1015,7 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .social .btn{
    padding-left: 30px;
-   padding-right: 30px; 
+   padding-right: 30px;
 }
 .social .btn i{
    margin-right: 15px;
